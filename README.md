@@ -2,7 +2,7 @@
 
 <p>Welcome to my GitHub profile! </br> I'm <b>Moaz Eslam</b>, a Software Developer and AI & Machine Learning Researcher.</p>
 
-<p>As a final-year student , my projects revolve around bridging the gap between modern application development and advanced AI technologies. I am deeply passionate about applying cutting-edge machine learning concepts—such as Graph Neural Networks in Bioinformatics for predicting drug interactions—while maintaining robust software architecture and DevSecOps practices.</p>
+<p>As a AI Engineer , my projects revolve around bridging the gap between modern application development and advanced AI technologies. I am deeply passionate about applying cutting-edge machine learning concepts—such as Graph Neural Networks in Bioinformatics for predicting drug interactions—while maintaining robust software architecture and DevSecOps practices.</p>
 
 <h3>🛠️ Languages & Technologies I code with</h3>
 
